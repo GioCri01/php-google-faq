@@ -1,3 +1,28 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+
 header{
-    height: 120px;
+    
+    border-bottom: 1px solid gray;
+    background-color: white;
+    z-index: 999;
+}
+
+header img{
+    width: 150px;
+    padding: 20px;
+}
+
+header nav{
+    width: 40%;
+}
+
+main{
+    padding-top: 80px;
+}
+
+ul{
+    list-style: none;
 }
